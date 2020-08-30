@@ -1,1 +1,2 @@
-print("Hello world!asdf - New version");
+print("Hello world");
+print("Goodbye");
